@@ -1,0 +1,15 @@
+C:\dev\conversordetemperatura\bin\Debug\net6.0\conversordetemperatura.exe
+C:\dev\conversordetemperatura\bin\Debug\net6.0\conversordetemperatura.deps.json
+C:\dev\conversordetemperatura\bin\Debug\net6.0\conversordetemperatura.runtimeconfig.json
+C:\dev\conversordetemperatura\bin\Debug\net6.0\conversordetemperatura.dll
+C:\dev\conversordetemperatura\bin\Debug\net6.0\conversordetemperatura.pdb
+C:\dev\conversordetemperatura\obj\Debug\net6.0\conversordetemperatura.csproj.AssemblyReference.cache
+C:\dev\conversordetemperatura\obj\Debug\net6.0\conversordetemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\conversordetemperatura\obj\Debug\net6.0\conversordetemperatura.AssemblyInfoInputs.cache
+C:\dev\conversordetemperatura\obj\Debug\net6.0\conversordetemperatura.AssemblyInfo.cs
+C:\dev\conversordetemperatura\obj\Debug\net6.0\conversordetemperatura.csproj.CoreCompileInputs.cache
+C:\dev\conversordetemperatura\obj\Debug\net6.0\conversordetemperatura.dll
+C:\dev\conversordetemperatura\obj\Debug\net6.0\refint\conversordetemperatura.dll
+C:\dev\conversordetemperatura\obj\Debug\net6.0\conversordetemperatura.pdb
+C:\dev\conversordetemperatura\obj\Debug\net6.0\conversordetemperatura.genruntimeconfig.cache
+C:\dev\conversordetemperatura\obj\Debug\net6.0\ref\conversordetemperatura.dll
